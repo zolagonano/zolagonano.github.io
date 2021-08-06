@@ -1,0 +1,34 @@
+html{
+    color: wheat;
+    background: rgb(0,0,0);
+    background: -moz-linear-gradient(98deg, rgba(0,0,0,1) 0%, rgba(2,41,29,1) 100%);
+    background: -webkit-linear-gradient(98deg, rgba(0,0,0,1) 0%, rgba(2,41,29,1) 100%);
+    background: linear-gradient(98deg, rgba(0,0,0,1) 0%, rgba(2,41,29,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#02291d",GradientType=1); 
+}
+a{
+    color: #15d5ae;
+    text-decoration: none;
+}
+a:hover{
+    color: #00ffcb;
+}
+.light{
+    color: #feeeee;
+}
+.container{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 7%;
+    margin-bottom: 7%;
+}
+.walletaddr{
+    max-width: 300px;
+}
+.walletaddr code{
+    overflow-wrap: break-word;
+    background-color: #000;
+    border-radius: 5px;
+    border: 1px solid orange;
+    color: orange;
+}
