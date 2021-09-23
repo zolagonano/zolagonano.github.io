@@ -20,7 +20,13 @@ a:hover{
     margin-bottom: 4%;
 }
 .walletaddr{
-    max-width: 300px;
+    display: inline-block;
+    max-width: 315px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.walletaddr_container{
+    display: flex;
 }
 .walletaddr code{
     overflow-wrap: break-word;
