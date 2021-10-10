@@ -35,3 +35,8 @@ a:hover{
     border: 1px solid orange;
     color: orange;
 }
+@media screen and (max-width: 678px) {
+    .walletaddr_container{
+        display: block;
+    }
+}
