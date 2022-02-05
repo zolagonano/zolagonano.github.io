@@ -1,16 +1,18 @@
 html{
-    color: wheat;
-    background-color: #0a1010;
+    font-family: monospace;
+    font-size: 16px;
+    color: #BCBCBC;
+    background-color: #050505;
 }
 a{
-    color: #15d5ae;
+    color: mediumseagreen;
     text-decoration: none;
 }
 a:hover{
-    color: #00ffcb;
+    color: palegreen;
 }
 .light{
-    color: #feeeee;
+    color: mediumseagreen;
 }
 .container{
     margin-left: auto;
@@ -25,18 +27,27 @@ a:hover{
     padding-left: 12px;
     padding-right: 12px;
 }
+.walletaddr img{
+    border: 1px solid darkgray;
+    border-radius: 7px;
+}
 .walletaddr_container{
     display: flex;
 }
 .walletaddr code{
     overflow-wrap: break-word;
-    background-color: #000;
-    border-radius: 5px;
-    border: 1px solid orange;
-    color: orange;
+    background-color: #181818;
+    padding: 0.5px 2px;
+}
+.monero code{
+    color: darkorange;
+}
+.bitcoin code{
+    color: #e1be00;
 }
 @media screen and (max-width: 678px) {
     .walletaddr_container{
         display: block;
     }
 }
+
