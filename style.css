@@ -1,53 +1,37 @@
 html{
-    font-family: monospace;
-    font-size: 16px;
-    color: #BCBCBC;
-    background-color: #050505;
+ font-family: monospace;
+ font-size: 16px;
+ color: #BCBCBC;
+ background-color: #050505;
 }
+article h1{ font-size: 1.6em; }
 a{
-    color: mediumseagreen;
-    text-decoration: none;
+ color: mediumseagreen;
+ text-decoration: none;
 }
 a:hover{
-    color: palegreen;
+ color: palegreen;
 }
-.light{
-    color: mediumseagreen;
-}
+.light{ color: mediumseagreen; }
 .container{
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 80em;
-    margin-top: 4%;
-    margin-bottom: 4%;
-}
-.walletaddr{
-    display: inline-block;
-    max-width: 315px;
-    padding-left: 12px;
-    padding-right: 12px;
-}
-.walletaddr img{
-    border: 1px solid darkgray;
-    border-radius: 7px;
-}
-.walletaddr_container{
-    display: flex;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 80em;
+ margin-top: 4%;
+ margin-bottom: 4%;
 }
 .walletaddr code{
-    overflow-wrap: break-word;
-    background-color: #181818;
-    padding: 0.5px 2px;
+ overflow-wrap: break-word;
+ background-color: #222222;
+ padding: 1px 3.5px;
+ border-radius: 5px;
 }
-.monero code{
-    color: darkorange;
+.monero code{ color: darkorange; }
+.bitcoin code{ color: #e1be00; }
+.litecoin code{ color: #d3d3d3; }
+.bitcoin_cash code{ color: mediumseagreen; }
+footer p{
+ font-size: 14px;
+ opacity: 0.8;
 }
-.bitcoin code{
-    color: #e1be00;
-}
-@media screen and (max-width: 678px) {
-    .walletaddr_container{
-        display: block;
-    }
-}
-
+hr{ opacity: 0.8; }
