@@ -5,33 +5,23 @@ html{
  background-color: #050505;
 }
 article h1{ font-size: 1.6em; }
-a{
- color: mediumseagreen;
- text-decoration: none;
-}
-a:hover{
- color: palegreen;
-}
-.light{ color: mediumseagreen; }
-.container{
+a{ text-decoration: none; }
+a:hover{ color: palegreen; }
+.light, a{ color: mediumseagreen; }
+.container, footer{
  margin-left: auto;
  margin-right: auto;
  max-width: 80em;
+}
+.container{
  margin-top: 4%;
  margin-bottom: 4%;
 }
-.walletaddr code{
+code{
  overflow-wrap: break-word;
- background-color: #222222;
+ background-color: #1A1A1A;
  padding: 1px 3.5px;
  border-radius: 5px;
 }
-.monero code{ color: darkorange; }
-.bitcoin code{ color: #e1be00; }
-.litecoin code{ color: #d3d3d3; }
-.bitcoin_cash code{ color: mediumseagreen; }
-footer p{
- font-size: 14px;
- opacity: 0.8;
-}
-hr{ opacity: 0.8; }
+footer p{ font-size: 14px; }
+hr, footer p{ opacity: 0.8; }
