@@ -49,12 +49,12 @@
   --spacer-3: calc(var(--spacer) * 3);
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --body-color: var(--gray-300);
     --body-bg: #131313;
 
-    --heading-color: #fff;
+    --heading-color: #eee;
 
     --link-color: mediumseagreen;
     --link-hover-color: palegreen;
