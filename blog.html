@@ -1,0 +1,23 @@
+---
+layout: default
+title: Home
+permalink: /blog
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+  <article class="post posts_list">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+  </article>
+  <hr>
+  {% endfor %}
+
+</div>

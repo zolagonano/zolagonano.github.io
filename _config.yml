@@ -1,0 +1,35 @@
+# Setup
+title: Zola's Blog
+tagline: Where I share everything that Im interested in
+url: https://zolagonano.github.io
+baseurl: ""
+permalink: /blog/posts/:title
+
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+
+# Specify the author for blog posts
+author:
+  name: Zola Gonano
+  url: htts://github.com/zolagonano
+  email: zolagonano@protonmail.com
+
+# Custom vars
+version: 3.0.0
