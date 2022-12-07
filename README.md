@@ -1,1 +1,0 @@
-# Zola Gonano's WebPage
