@@ -44,6 +44,7 @@ Also, you can follow me on social media:
 ## Donate:
 
 - Monero([QR](/assets/qrcodes/monero.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
+- VerusCoin([QR](/assets/qrcodes/veruscoin.png)): `R9V91vQbP75A5H3Nn3RrXnK8zVZyaRBYHG`
 - Bitcoin([QR](/assets/qrcodes/bitcoin.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
 - Litecoin([QR](/assets/qrcodes/litecoin.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
 - BitcoinCash([QR](/assets/qrcodes/bitcoincash.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
