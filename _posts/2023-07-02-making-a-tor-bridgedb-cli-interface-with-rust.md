@@ -13,7 +13,7 @@ BridgeDB is accessible through its website at [bridges.torproject.org](https://c
 
 ![BridgeDB website screenshot](/assets/pics/bridgedb_screenshot.jpg)
 
-For this project, I will be using the Rust programming language and the `reqwest`,` scraper`, and `viuer` crates. These crates will help me handle HTTP requests, perform web scraping, and display captchas in the terminal.
+For this project, I will be using the [Rust programming language](https://www.rust-lang.org/) and the `reqwest`,` scraper`, and `viuer` crates. These crates will help me handle HTTP requests, perform web scraping, and display captchas in the terminal.
 
 # Setting Up the Binary Crate
 
