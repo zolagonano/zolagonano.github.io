@@ -9,7 +9,7 @@ In both cases, you might need to use Bridges to connect to the Tor network or to
 
 What bridges do is obfuscate the traffic and act as alternative entry nodes, which take your data and deliver it to Tor's entry node. You can either run your own bridge, which would require a VPS with free access to the internet and some technical expertise to set up and maintain, or you can use the tool provided by the Tor Project itself, called BridgeDB, to obtain public bridges.
 
-BridgeDB is accessible through its website at bridges.torproject.org, and it is the only interface it has. Therefore, I wanted to develop a CLI (command-line interface) application that retrieves bridges from the website in my terminal, eliminating the need to open a browser every time I need a new bridge.
+BridgeDB is accessible through its website at [bridges.torproject.org](https://crates.io/crates/base64), and it is the only interface it has. Therefore, I wanted to develop a CLI (command-line interface) application that retrieves bridges from the website in my terminal, eliminating the need to open a browser every time I need a new bridge.
 
 ![BridgeDB website screenshot](/assets/pics/bridgedb_screenshot.jpg)
 
@@ -306,15 +306,15 @@ Now, if we compile our program, we will have a CLI tool that retrieves bridges f
 
 ---
 
-This crate was written hastily while I was working on this blog post,  resulting in poor code quality and inadequate error handling. However, I plan to publish an improved version on my GitHub repository in the near future: https://github.com/zolagonano/torbridge-cli
+This crate was written hastily while I was working on this blog post,  resulting in poor code quality and inadequate error handling. However, I plan to publish an improved version on my GitHub repository in the near future: [https://github.com/zolagonano/torbridge-cli](https://github.com/zolagonano/torbridge-cli)
 
 
 Also, Here is a link to all the tools and crates I used in this project:
 
-- BridgeDB: https://bridges.torproject.org
-- Rust: https://rustlang.org
-- reqwest: https://crates.io/crates/reqwest
-- viuer: https://crates.io/crates/viuer
-- tokio: https://crates.io/crates/tokio
-- scraper: https://crates.io/crates/scraper
-- base64: https://crates.io/crates/base64
+- BridgeDB: [https://bridges.torproject.org](https://bridges.torproject.org)
+- Rust: [https://rustlang.org](https://rustlang.org)
+- reqwest: [https://crates.io/crates/reqwest](https://crates.io/crates/reqwest)
+- viuer: [https://crates.io/crates/viuer](https://crates.io/crates/viuer)
+- tokio: [https://crates.io/crates/tokio](https://crates.io/crates/tokio)
+- scraper: [https://crates.io/crates/scraper](https://crates.io/crates/scraper)
+- base64: [https://crates.io/crates/base64](https://crates.io/crates/base64)
