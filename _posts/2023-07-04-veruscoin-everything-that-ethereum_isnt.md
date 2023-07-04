@@ -23,7 +23,7 @@ Furthermore, VerusCoin employs the [VerusHash](https://docs.verus.io/overview/ve
 
 VerusCoin addresses the vulnerability of $5 wrench attacks through its [Vault](https://docs.verus.io/verusid/#verus-vault) feature. This feature enables users to lock their funds, restricting access until a specific time delay has passed. By implementing the Vault feature, VerusCoin enhances the security of users' funds, preventing unauthorized access even under duress.
 
-![xkcd's famous 5$ wrench meme](/asstes/pics/xkcd_security_meme.png)
+![xkcd's famous 5$ wrench meme](/assets/pics/xkcd_security_meme.png)
 
 # Scalable BlockChain
 
