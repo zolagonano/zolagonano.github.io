@@ -9,6 +9,7 @@ permalink: /blog/posts/:title
 plugins:
   - jekyll-gist
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Optimize Jekyll
 exclude:
