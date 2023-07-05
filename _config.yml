@@ -28,7 +28,7 @@ sass:
 # Specify the author for blog posts
 author:
   name: Zola Gonano
-  url: htts://github.com/zolagonano
+  url: https://github.com/zolagonano
   email: zolagonano@protonmail.com
 
 # Custom vars
