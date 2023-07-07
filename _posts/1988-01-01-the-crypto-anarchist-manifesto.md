@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The crypto anarchist manifesto (Timothy C. May)
+author: Timothy C. May
 ---
 
 A specter is haunting the modern world, the specter of crypto anarchy.

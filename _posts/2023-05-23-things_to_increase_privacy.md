@@ -1,6 +1,7 @@
 ---
 title: Few simple things that can increase your privacy significantly
 layout: post
+author: Zola Gonano
 ---
 
 After years of dedication to privacy and anonymity in the online world, I have come across a few simple things that can put you above average in terms of privacy and security.
