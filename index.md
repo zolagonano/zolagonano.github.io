@@ -25,6 +25,7 @@ If you like to checkout my blog, click [here]({{ site.url }}/blog).
 - [Qr-Api](https://github.com/zolagonano/qr-api): A simple and fast QRcode encoder/decoder API.
 - [Rasswd](https://github.com/zolagonano/rasswd): A simple and fast password generator.
 - [QrRu](https://github.com/zolagonano/qrru): A CLI tool to encode and decode qr-codes.
+- [torbridge-cli](https://github.com/zolagonano/torbridge-cli): A CLI tool to get Tor Bridges from BridgeDB.
 - [Awesome Wizard](https://github.com/zolagonano/awesome-wizard): A list of wizard scripts.
 - [Awesome ZeroNet](https://github.com/zolagonano/awesome-zeronet): An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.
 
