@@ -70,4 +70,4 @@ This shell is available on my [GitHub](https://github.com/zolagonano/bhsh) as we
 
 ---
 
-I should mention that I'm not a security expert, and I'm unsure whether this shell is inherently safer than others. I would appreciate any feedback or insights if you believe there are technical, grammatical, or any other issues in this blog post or my other posts. Feel free to open an issue on [GitHub](https://github.com/zolagonano/awesome-zeronet) or email me.
+I should mention that I'm not a security expert, and I'm unsure whether this shell is inherently safer than others. I would appreciate any feedback or insights if you believe there are technical, grammatical, or any other issues in this blog post or my other posts. Feel free to open an issue on [GitHub](https://github.com/zolagonano/zolagonano.github.io) or email me.
