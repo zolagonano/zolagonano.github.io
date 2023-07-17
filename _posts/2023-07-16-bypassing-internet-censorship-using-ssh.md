@@ -2,6 +2,7 @@
 title: Bypassing Internet Censorship Using SSH
 layout: post
 author: Zola Gonano
+redirect_from: /blog/posts/bypassing-internet-censorship-using-ssh
 ---
 
 As censorship systems like GFW(Great Firewall of China) and Roskomnadzor(Russia's Federal Service for Supervision of Communications, Information Technology) have evolved, people have fought back and developed numerous tools, methods, and protocols to bypass these firewalls and connect to the open and free internet that most people know.
@@ -62,7 +63,7 @@ Set a password for the non-privileged user:
 passwd tunnel_user
 ```
 
-For the non-privileged user, I have used the Restricted Bash (rbash) as the default shell. However, you can also utilize the [BlackHole shell]() that I [developed in my previous post](https://znano.eu.org/blog/posts/creating-a-blackhole-shell-with-16lines-of-rust-code).
+For the non-privileged user, I have used the Restricted Bash (rbash) as the default shell. However, you can also utilize the [BlackHole shell]() that I [developed in my previous post](/blog/creating-a-blackhole-shell-with-16lines-of-rust-code).
 
 ## Setting up SSHD
 

@@ -3,13 +3,14 @@ title: Zola's Blog
 tagline: Where I share everything that Im interested in
 url: https://znano.eu.org
 baseurl: ""
-permalink: /blog/posts/:title
+permalink: /blog/:title
 
 # Gems
 plugins:
   - jekyll-gist
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Optimize Jekyll
 exclude:

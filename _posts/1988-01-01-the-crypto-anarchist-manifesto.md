@@ -2,6 +2,7 @@
 layout: post
 title: The crypto anarchist manifesto (Timothy C. May)
 author: Timothy C. May
+redirect_from: /blog/posts/the-crypto-anarchist-manifesto
 ---
 
 A specter is haunting the modern world, the specter of crypto anarchy.

@@ -2,6 +2,7 @@
 title: Making A Tor BridgeDB CLI interface with Rust
 layout: post
 author: Zola Gonano
+redirect_from: /blog/posts/making-a-tor-bridgedb-cli-interface-with-rust
 ---
 
 If you care about privacy and anonymity, or if you live in a country with very restricted internet access, you might have used [Tor](https://en.wikipedia.org/wiki/Tor_(network)) (The Onion Router) for anonymity or to bypass censorship.
