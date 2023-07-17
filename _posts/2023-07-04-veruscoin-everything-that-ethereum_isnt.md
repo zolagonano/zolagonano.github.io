@@ -2,7 +2,6 @@
 title: VerusCoin, Everything that Ethereum Isn't
 layout: post
 author: Zola Gonano
-redirect_from: /blog/posts/veruscoin-everything-that-ethereum_isnt
 ---
 
 A few months ago, I accidentally came across a highly underrated cryptocurrency named [VerusCoin](https://verus.io/), and I immediately fell in love with it because of its unique features and the techniques that VerusCoin's developers used to provide those features.

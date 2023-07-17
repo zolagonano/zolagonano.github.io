@@ -2,7 +2,6 @@
 title: Creating a BlackHole Shell with 16 Lines of Rust Code
 layout: post
 author: Zola Gonano
-redirect_from: /blog/posts/creating-a-blackhole-shell-with-16lines-of-rust-code
 ---
 I have been using [rbash](https://en.wikipedia.org/wiki/Restricted_shell) to restrict users' shell access for the past year, and there have been some problems with it that finally led me to write my own shell. The biggest problem was that users could run [bash](https://www.gnu.org/software/bash/), [dash](http://gondor.apana.org.au/~herbert/dash/), or [zsh](https://www.zsh.org/), or any other shell, allowing them to bypass the restrictions. Another issue was the ability for users to execute unauthorized software, which was not restricted enough for my requirements. Therefore, I decided to develop a black hole shell.
 
