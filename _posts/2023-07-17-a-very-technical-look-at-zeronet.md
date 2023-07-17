@@ -313,7 +313,7 @@ As always, the entire blog is available on my [GitHub](https://github.com/zolago
 
 Here are some of the resources used in this post:
 
-- [https://en.wikipedia.org/wiki/ZeroNet](https://en.wikipedia.org/wiki/ZeroNet)
-- [https://zeronet.io/docs/site_development/getting_started/](https://zeronet.io/docs/site_development/getting_started/)
-- [https://github.com/HelloZeroNet/ZeroID](https://github.com/HelloZeroNet/ZeroID)
-- [https://github.com/HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
+- [en.wikipedia.org/wiki/ZeroNet](https://en.wikipedia.org/wiki/ZeroNet)
+- [zeronet.io/docs/site_development//](https://zeronet.io/docs/site_development/getting_started/)
+- [github.com/HelloZeroNet/ZeroID](https://github.com/HelloZeroNet/ZeroID)
+- [github.com/HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet)
