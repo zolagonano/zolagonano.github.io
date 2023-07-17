@@ -12,6 +12,11 @@
   }
 }
 
+.post-author a {
+    text-decoration: none;
+    opacity: 0.8;
+}
+
 // Blog post or page title
 .page-title,
 .post-title {
@@ -36,6 +41,10 @@
   display: block;
   margin-top: -.5rem;
   margin-bottom: var(--spacer);
+  color: var(--gray-500);
+}
+
+.post-date time, .post-author {
   color: var(--gray-600);
 }
 
