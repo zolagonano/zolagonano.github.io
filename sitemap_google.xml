@@ -6,6 +6,7 @@ layout: none
     {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+        <lastmod>{{ post.date }}</lastmod>
     </url>
     {% endfor %}
 
