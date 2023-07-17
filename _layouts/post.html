@@ -2,24 +2,9 @@
 layout: default
 ---
 
-
-{% if page.author %}
-{% if page.author == site.author.name %}
-
-{% capture post_author %}
-<a href="{{ site.author.url }}">{{ site.author.name }}</a>
-{% endcapture %}
-
-{% else %}
-
-{% assign post_author = page.author %}
-
-{% endif %}
-{% endif %}
-
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">At <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time> By <span class="post-author">{{ post_author }}</span></span>
+  <span class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></span>
   {{ content }}
 </article>
 
