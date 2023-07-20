@@ -12,7 +12,7 @@ A geek who loves plants, computers, programming, and cryptography.
 ## Latest blog posts:
 
 Here are my latest blog posts:
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 8 %}
 - [{{ post.title }}]({{ post.url | relative_url }})({{ post.date | date_to_string }}) {% endfor %}
 
 If you like to checkout my blog, click [here]({{ site.url }}/blog).
