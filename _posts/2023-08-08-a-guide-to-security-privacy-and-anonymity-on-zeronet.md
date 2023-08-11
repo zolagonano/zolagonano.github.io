@@ -125,4 +125,4 @@ There's a lot of overlap between security, privacy, and anonymity, and you shoul
 
 ---
 
-Privacy is a human right, and digital privacy is necessary for people living in dictatorships, journalists, or activists to stay safe in the real world. If there's anything else that can be added, I'd be more than happy to know. This entire blog is available on [GitHub](), and you can contribute to it or simply give it a star.
+Privacy is a human right, and digital privacy is necessary for people living in dictatorships, journalists, or activists to stay safe in the real world. If there's anything else that can be added, I'd be more than happy to know. This entire blog is available on [GitHub](https://github.com/zolagonano/zolagonano.github.io), and you can contribute to it or simply give it a star.
