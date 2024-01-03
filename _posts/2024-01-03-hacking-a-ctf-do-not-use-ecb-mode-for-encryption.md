@@ -87,7 +87,7 @@ def encrypt():
 
 So, what we can do is attack the implementation of the encryption scheme, which is the `AESCipher` class. The two main issues that come to mind when looking at it are the self-rolled padding algorithm and the use of ECB mode.
 
-But what is ECB mode and how can it help us bypass that restriction? Well, ECB mode is the simplest way of encrypting blocks in block cipher algorithms. It works by breaking down the plaintext data into blocks of a fixed size and encrypting each block with the key. This process is repeated for each chunk until it reaches the last block. The final block is then padded to match the block size of the block cipher, and all the blocks are arranged in series to form the ciphertext:![img](/assets/ecb_encryption_mode.png)
+But what is ECB mode and how can it help us bypass that restriction? Well, ECB mode is the simplest way of encrypting blocks in block cipher algorithms. It works by breaking down the plaintext data into blocks of a fixed size and encrypting each block with the key. This process is repeated for each chunk until it reaches the last block. The final block is then padded to match the block size of the block cipher, and all the blocks are arranged in series to form the ciphertext:![img](/assets/pics/ecb_encryption_mode.png)
 
 But what's the problem? ECB mode lacks [diffusion](https://en.wikipedia.org/wiki/Confusion_and_diffusion), meaning it doesn't obscure the correlation between the plaintext and the ciphertext. This weakness is what we will leverage to our advantage when encrypting the `impossible_flag_user` with it.
 
