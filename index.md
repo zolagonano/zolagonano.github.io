@@ -9,25 +9,21 @@ A geek who loves plants, computers, programming, and cryptography.
 
 {% assign post_count = site.posts | size %}
 {% if post_count > 0 %}
-## Latest blog posts:
+## Recent blog posts:
 
-Here are my latest blog posts:
+I have a blog where I write about technical topics that interest me. Check out my latest blog posts, and you can explore more on my blog at [/blog]({{ site.url }}/blog).
+
 {% for post in site.posts limit: 8 %}
-- [{{ post.title }}]({{ post.url | relative_url }})({{ post.date | date_to_string }}) {% endfor %}
+- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }}) {% endfor %}
 
-If you like to checkout my blog, click [here]({{ site.url }}/blog).
 {% endif %}
 
-## Projects:
+## Highlighted Projects:
 
-- [CiEnLi](https://github.com/zolagonano/cienli): A library of historical ciphers implemented in rust.
-- [STOG](https://github.com/zolagonano/stog): A static blog generator from markdown files.
-- [Qr-Api](https://github.com/zolagonano/qr-api): A simple and fast QRcode encoder/decoder API.
-- [Rasswd](https://github.com/zolagonano/rasswd): A simple and fast password generator.
-- [QrRu](https://github.com/zolagonano/qrru): A CLI tool to encode and decode qr-codes.
-- [torbridge-cli](https://github.com/zolagonano/torbridge-cli): A CLI tool to get Tor Bridges from BridgeDB.
-- [Awesome Wizard](https://github.com/zolagonano/awesome-wizard): A list of wizard scripts.
-- [Awesome ZeroNet](https://github.com/zolagonano/awesome-zeronet): An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites.
+Here are some of my projects; you can check the full list at [/projects]({{ site.url }}/projects).
+
+{% for project in site.data.projects %}{% if project.highlight %}- [{{ project.name }}]({{ project.url}} ): {{ project.description }}
+{% endif %}{% endfor %}
 
 ## Contact:
 
@@ -42,13 +38,12 @@ Also, you can follow me on social media:
 - [zolagonano](https://github.com/zolagonano) at [github.com](https://github.com/)
 - <a rel="me" href="https://mastodon.online/@znano">znano</a> at [mastodon.online](https://mastodon.online/)
 
-## Donate:
+## Donate/Support:
 
-- Monero([QR](/assets/qrcodes/monero.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
-- Tron([QR](/assets/qrcodes/tron.png)): `TUT762nFQQRoXvDe1Z72p3kKH9uY3XZCg9`
-- DogeCoin([QR](/assets/qrcodes/dogecoin.png)): `DBEaZAbo5tDk7LuXd7pCkhQMa2h8kBgVbS`
-- Bitcoin([QR](/assets/qrcodes/bitcoin.png)): `bc1qdzdlytujxn3l02vdt90xx5pkqlezxpuucs6fmm`
-- Litecoin([QR](/assets/qrcodes/litecoin.png)): `ltc1qrex5xq3px5qn9vjplfkmvzf7sweks3r4skxe5k`
-- BitcoinCash([QR](/assets/qrcodes/bitcoincash.png)): `qzmxuv82j9n2zlxkylrz882yk9e50wvzz5a6hqy2dc`
+ I dedicate my free time to working on Free and Open Source Software (FOSS) and creating free content. Your donations enable me to invest more time in these projects.
 
-Full list is available at [/support](/support).
+Here are some ways you can donate, and a full list is available at [/support]({{ site.url }}/support):
+
+{% for crypto in site.data.crypto_donations %}{% if crypto.highlight %}- **{{ crypto.name }}** _([QR]({{ crypto.qr }}))_: `{{ crypto.address }}`
+{% endif %}{% endfor %}
+
