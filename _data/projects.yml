@@ -1,0 +1,39 @@
+- name: "CiEnLi"
+  url: "https://github.com/zolagonano/cienli"
+  description: "A library of historical ciphers implemented in rust."
+  highlight: true
+
+- name: "STOG"
+  url: "https://github.com/zolagonano/stog"
+  description: "A static blog generator from markdown files."
+  highlight: true
+
+- name: "Qr-Api"
+  url: "https://github.com/zolagonano/qrru"
+  description: "A CLI tool to encode and decode qr-codes."
+  highlight: true
+
+- name: "Rasswd"
+  url: "https://github.com/zolagonano/rasswd"
+  description: "A simple and fast password generator." 
+  highlight: true
+
+- name: "QrRu"
+  url: "https://github.com/zolagonano/qrru"
+  description: "A CLI tool to encode and decode qr-codes."
+  highlight: true
+
+- name: "torbridge-cli"
+  url: "https://github.com/zolagonano/torbridge-cli"
+  description: "A CLI tool to get Tor Bridges from BridgeDB."
+  highlight: true
+
+- name: "Awesome Wizard"
+  url: "https://github.com/zolagonano/awesome-wizard"
+  description: "A list of wizard scripts."
+  highlight: true
+
+- name: "Awesome ZeroNet"
+  url: "https://github.com/zolagonano/awesome-zeronet"
+  description: "An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites."
+  highlight: true
