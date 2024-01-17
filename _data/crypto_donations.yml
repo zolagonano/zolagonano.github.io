@@ -1,0 +1,65 @@
+- name: "Monero (XMR)"
+  address: "8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ"
+  qr: "/assets/qrcodes/monero.png"
+  highlight: true
+
+- name: "Bitcoin (BTC)"
+  address: "bc1qdzdlytujxn3l02vdt90xx5pkqlezxpuucs6fmm"
+  qr: "/assets/qrcodes/bitcoin.png"
+  highlight: true
+
+- name: "Ethereum (ETH)"
+  address: "0x9E00DC6bE0d07bDB5Ff8B62593a0193913c9B595"
+  qr: "/assets/qrcodes/ethereum.png"
+  highlight: true
+
+- name: "Bitcoin Cash (BCH)"
+  address: "qzmxuv82j9n2zlxkylrz882yk9e50wvzz5a6hqy2dc"
+  qr: "/assets/qrcodes/bitcoincash.png"
+  highlight: true
+
+- name: "Dogecoin (DOGE)"
+  address: "DBEaZAbo5tDk7LuXd7pCkhQMa2h8kBgVbS"
+  qr: "/assets/qrcodes/dogecoin.png"
+
+- name: "TRON (TRX)"
+  address: "TUT762nFQQRoXvDe1Z72p3kKH9uY3XZCg9"
+  qr: "/assets/qrcodes/tron.png"
+  highlight: true
+
+- name: "Litecoin (LTC)"
+  address: "ltc1qrex5xq3px5qn9vjplfkmvzf7sweks3r4skxe5k"
+  qr: "/assets/qrcodes/litecoin.png"
+
+- name: "Matic (MATIC)"
+  address: "0x9E00DC6bE0d07bDB5Ff8B62593a0193913c9B595"
+  qr: "/assets/qrcodes/matic.png"
+
+- name: "TON (Telegram Open Network)"
+  address: "EQAjMitBSLjcl4DwthElddvuRSW3N-Dvd0HX-RkGMUVsC9sT"
+  qr: "/assets/qrcodes/ton.png"
+
+- name: "Zcash (ZEC)"
+  address: "t1WbpyRF7sXidefAzA5Vb922dsR3PLe9bRZ"
+  qr: "/assets/qrcodes/zcash.png"
+
+- name: "Solana (SOL)"
+  address: "5TT1URTgmnXziXXS1avgV4uF7Dwj5f3MNHLPcZtQKVk9"
+  qr: "/assets/qrcodes/solana.png"
+
+- name: "Stellar (XLM)"
+  address: "GDT7GJS6U3N2CCWNQAORW2EJ2XFDCUGXOGZXEMGKOP6ILQ77ZIPN3ET4"
+  qr: "/assets/qrcodes/stellar.png"
+
+- name: "Cosmos (ATOM)"
+  address: "cosmos1pwu953l57000n9hleerzm3hzaclldhpxf86l32"
+  qr: "/assets/qrcodes/cosmos.png"
+
+- name: "Dash"
+  address: "XamhGMK5XM1wPKqSiF8HACJsToVmW4jMGL"
+  qr: "/assets/qrcodes/dash.png"
+
+- name: "Ravencoin (RVN)"
+  address: "RLN8CqRzgDajY77Sd3xYREVLheTYEb7rWc"
+  qr: "/assets/qrcodes/ravencoin.png"
+
