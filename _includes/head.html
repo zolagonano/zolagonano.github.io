@@ -2,7 +2,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title == "Home" %}{{ site.title }}{% if site.tagline %} &middot; {{ site.tagline }}{% endif %}{% else %}{% if page.title == "Webpage" %}Zola's WebPage {% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}{% endif %}</title>
+  <title>{% if page.title == "Home" %}{{ site.author.name }}{% if site.tagline %} &middot; Blog{% endif %}{% else %}{% if page.title == "Webpage" %}{{ site.author.name }} &middot; HomePage{% else %}{{ page.title }} &middot; {{ site.author.name }}{% endif %}{% endif %}</title>
 
   <link rel="stylesheet" href="{{ 'styles.css' | relative_url }}">
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/assets/apple-touch-icon-precomposed.png' | relative_url }}">
