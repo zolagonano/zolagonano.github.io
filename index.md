@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Webpage
+title: Zola Gonano
 ---
 
 # Hey, I'm Zola Gonano 👋
