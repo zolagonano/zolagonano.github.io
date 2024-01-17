@@ -2,6 +2,7 @@
 layout: homepage
 title: Zola Gonano
 description: Webpage of a geek who loves plants, computers, programming, and cryptography.
+image: /assets/sauropods/sauropod.png
 ---
 
 # Hey, I'm Zola Gonano 👋

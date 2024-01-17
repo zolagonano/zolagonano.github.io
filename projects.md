@@ -2,6 +2,7 @@
 layout: homepage
 title: Projects
 description: List of the projects that I'm currently working on and maintaining.
+image: /assets/sauropods/sauropod.png
 ---
 
 ## Projects

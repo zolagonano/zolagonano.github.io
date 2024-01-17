@@ -1,16 +1,17 @@
 ---
 layout: default
 title: Home
+image: /assets/sauropods/sauropod.png
 ---
 
 <div class="posts">
   {% for post in site.posts %}
   <article class="post posts_list">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url | relative_url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
