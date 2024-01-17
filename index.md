@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Zola Gonano
+description: Webpage of a geek who loves plants, computers, programming, and cryptography.
 ---
 
 # Hey, I'm Zola Gonano 👋

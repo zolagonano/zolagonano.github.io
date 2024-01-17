@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: Support
+description: If you like what I'm doing, you can support me here.
 ---
 
 ## Support
