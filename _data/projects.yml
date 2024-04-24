@@ -37,3 +37,23 @@
   url: "https://github.com/zolagonano/awesome-zeronet"
   description: "An Awesome & curated list of ZeroNet implementations, plugins, tools, and zites."
   highlight: true
+
+- name: "proxy-scraper"
+  url: "https://github.com/zolagonano/proxy-scraper"
+  description: "The Proxy Scraper is a Rust command-line tool that allows users to scrape proxy information from URLs."
+  highlight: false
+
+- name: "slowed-reverb"
+  url: "https://github.com/zolagonano/slowed-reverb"
+  description: "A shell script that generates slowed reverbed videos."
+  highlight: false
+
+- name: "portable-zeronet"
+  url: "https://github.com/zolagonano/portable-zeronet"
+  description: "A simple tool in Bash that helps you make your ZeroNet Bundle Portable."
+  highlight: false
+
+- name: "SARE"
+  url: "https://github.com/SareProject"
+  description: "A Quantum-Safe encryption tool."
+  highlight: false
