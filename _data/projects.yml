@@ -53,6 +53,11 @@
   description: "A simple tool in Bash that helps you make your ZeroNet Bundle Portable."
   highlight: false
 
+- name: "fire-ninja-bot"
+  url: "https://github.com/zolagonano/fire-ninja-bot"
+  description: "A Telegram bot implemented as a Cloudflare Worker providing variety of proxies and censorship-bypassing tools scraped from the Internet."
+  highlight: false
+
 - name: "SARE"
   url: "https://github.com/SareProject"
   description: "A Quantum-Safe encryption tool."
