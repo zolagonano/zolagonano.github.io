@@ -3,12 +3,17 @@ layout: default
 title: Series
 ---
 
-{% assign series = "ZeroNet" | split: "," %}
-{% for s in series %}
+{% assign all_series = "" %}
+{% for post in site.posts %}
+  {% assign all_series = all_series | append: post.series | append: "|" %}
+{% endfor %}
+
+{% assign unique_series = all_series | split: "|" | uniq %}
+
+{% for s in unique_series %}
   <h2>{{ s }}</h2>
   <ul>
-    {% assign s_downcase = s | downcase %}
-    {% for post in site.posts %}{% if post.series == s_downcase %}
+    {% for post in site.posts %}{% if post.series == s %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}{% endfor %}
   </ul>
