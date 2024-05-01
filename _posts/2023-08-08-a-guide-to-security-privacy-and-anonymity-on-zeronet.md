@@ -1,7 +1,7 @@
 ---
 title: A Guide to Security, Privacy, and Anonymity on ZeroNet
 layout: post
-series: zeronet
+series: ZeroNet
 ---
 
 In my previous post, I took [a technical look at ZeroNet](/blog/posts/a-very-technical-look-at-zeronet), explaining how it works and the technologies it uses to create a peer-to-peer web-like network. In this post, I want to discuss how you can maintain privacy and security in this network, explore the potential threats, and provide some techniques to enhance your privacy and security.

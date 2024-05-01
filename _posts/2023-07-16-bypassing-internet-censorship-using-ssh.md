@@ -2,6 +2,7 @@
 title: Bypassing Internet Censorship Using SSH
 layout: post
 author: Zola Gonano
+series: Censorship
 ---
 
 As censorship systems like GFW(Great Firewall of China) and Roskomnadzor(Russia's Federal Service for Supervision of Communications, Information Technology) have evolved, people have fought back and developed numerous tools, methods, and protocols to bypass these firewalls and connect to the open and free internet that most people know.

@@ -1,7 +1,7 @@
 ---
 title: A Very Technical Look at ZeroNet
 layout: post
-series: zeronet
+series: ZeroNet
 ---
 
 
