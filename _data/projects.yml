@@ -1,7 +1,7 @@
 - name: "CiEnLi"
   url: "https://github.com/zolagonano/cienli"
   description: "A library of historical ciphers implemented in rust."
-  highlight: true
+  highlight: false
 
 - name: "STOG"
   url: "https://github.com/zolagonano/stog"
@@ -11,17 +11,17 @@
 - name: "Qr-Api"
   url: "https://github.com/zolagonano/qrru"
   description: "A CLI tool to encode and decode qr-codes."
-  highlight: true
+  highlight: false
 
 - name: "Rasswd"
   url: "https://github.com/zolagonano/rasswd"
   description: "A simple and fast password generator." 
-  highlight: true
+  highlight: false
 
 - name: "QrRu"
   url: "https://github.com/zolagonano/qrru"
   description: "A CLI tool to encode and decode qr-codes."
-  highlight: true
+  highlight: false
 
 - name: "torbridge-cli"
   url: "https://github.com/zolagonano/torbridge-cli"
@@ -31,7 +31,7 @@
 - name: "Awesome Wizard"
   url: "https://github.com/zolagonano/awesome-wizard"
   description: "A list of wizard scripts."
-  highlight: true
+  highlight: false
 
 - name: "Awesome ZeroNet"
   url: "https://github.com/zolagonano/awesome-zeronet"
@@ -41,12 +41,12 @@
 - name: "proxy-scraper"
   url: "https://github.com/zolagonano/proxy-scraper"
   description: "The Proxy Scraper is a Rust command-line tool that allows users to scrape proxy information from URLs."
-  highlight: false
+  highlight: true
 
 - name: "slowed-reverb"
   url: "https://github.com/zolagonano/slowed-reverb"
   description: "A shell script that generates slowed reverbed videos."
-  highlight: false
+  highlight: true
 
 - name: "portable-zeronet"
   url: "https://github.com/zolagonano/portable-zeronet"
@@ -56,9 +56,9 @@
 - name: "fire-ninja-bot"
   url: "https://github.com/zolagonano/fire-ninja-bot"
   description: "A Telegram bot implemented as a Cloudflare Worker providing variety of proxies and censorship-bypassing tools scraped from the Internet."
-  highlight: false
+  highlight: true
 
 - name: "SARE"
   url: "https://github.com/SareProject"
   description: "A Quantum-Safe encryption tool."
-  highlight: false
+  highlight: true
