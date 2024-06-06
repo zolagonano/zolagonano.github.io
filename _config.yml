@@ -1,7 +1,7 @@
 # Setup
 title: Zola's Blog
 tagline: Where I share everything that Im interested in
-url: https://znano.eu.org
+url: https://zolagonano.github.io
 baseurl: ""
 permalink: /blog/posts/:title
 
