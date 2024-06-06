@@ -63,7 +63,7 @@ Set a password for the non-privileged user:
 passwd tunnel_user
 ```
 
-For the non-privileged user, I have used the Restricted Bash (rbash) as the default shell. However, you can also utilize the [BlackHole shell]() that I [developed in my previous post](https://znano.eu.org/blog/posts/creating-a-blackhole-shell-with-16lines-of-rust-code).
+For the non-privileged user, I have used the Restricted Bash (rbash) as the default shell. However, you can also utilize the [BlackHole shell]() that I [developed in my previous post](/blog/posts/creating-a-blackhole-shell-with-16lines-of-rust-code).
 
 ## Setting up SSHD
 

@@ -123,4 +123,4 @@ This attack could have been easily prevented by using a cipher mode that provide
 
 ---
 
-This blog is available on my [GitHub](https://github.com/zolagonano/zolagonano.github.io), and if you find the content interesting, you can give it a star or consider making a donation [here](https://znano.eu.org/#donate).
+This blog is available on my [GitHub](https://github.com/zolagonano/zolagonano.github.io), and if you find the content interesting, you can give it a star or consider making a donation [here](/support).
