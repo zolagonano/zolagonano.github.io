@@ -1,3 +1,13 @@
+- name: "A Ninja's Handbook"
+  url: "https://github.com/zolagonano/a-ninjas-handbook"
+  description: "A book on privacy, security, and anonymity online."
+  highlight: false
+
+- name: "SARE"
+  url: "https://github.com/SareProject"
+  description: "A Quantum-Safe encryption tool."
+  highlight: true
+
 - name: "CiEnLi"
   url: "https://github.com/zolagonano/cienli"
   description: "A library of historical ciphers implemented in rust."
@@ -58,7 +68,3 @@
   description: "A Telegram bot implemented as a Cloudflare Worker providing variety of proxies and censorship-bypassing tools scraped from the Internet."
   highlight: true
 
-- name: "SARE"
-  url: "https://github.com/SareProject"
-  description: "A Quantum-Safe encryption tool."
-  highlight: true
