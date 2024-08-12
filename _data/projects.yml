@@ -1,7 +1,7 @@
 - name: "A Ninja's Handbook"
   url: "https://github.com/zolagonano/a-ninjas-handbook"
   description: "A book on privacy, security, and anonymity online."
-  highlight: false
+  highlight: true
 
 - name: "SARE"
   url: "https://github.com/SareProject"
@@ -56,7 +56,7 @@
 - name: "slowed-reverb"
   url: "https://github.com/zolagonano/slowed-reverb"
   description: "A shell script that generates slowed reverbed videos."
-  highlight: true
+  highlight: false
 
 - name: "portable-zeronet"
   url: "https://github.com/zolagonano/portable-zeronet"
