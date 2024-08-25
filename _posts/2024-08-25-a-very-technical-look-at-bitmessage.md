@@ -1,5 +1,5 @@
 ---
-title: A Very Technical Look at BitMessage
+title: "A Very Technical Look at BitMessage: Learning From a Dead Project"
 layout: post
 series: BitMessage
 ---
