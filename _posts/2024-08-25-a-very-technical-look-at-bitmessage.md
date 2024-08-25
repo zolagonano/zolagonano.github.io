@@ -29,8 +29,6 @@ Subscriptions in Bitmessage allow users to receive encrypted broadcasts from a s
 
 Private messages in Bitmessage are those messages that have only one recipient. All private messages are encrypted using the receiver's public key (and the receiver's public key is the receiver's address), and when the receiver successfully decrypts the sender's message, they send an ACK message telling the sender that the message has been successfully received and decrypted. If the ACK message isn't received within 2.5 days, the message expires and the sender will have to do the Proof-of-Work again.
 
-> Note: Explain the Proof of Work and how it works in Bitmessage here
-
 ## BitMessage's Encryption
 
 Bitmessage used an [ECIES (Elliptic Curve Integrated Encryption Scheme)](https://en.wikipedia.org/wiki/Integrated_Encryption_Scheme) to encrypt the payloads of the messages and broadcast objects.
