@@ -1,13 +1,13 @@
 ---
 layout: homepage
 title: Zola Gonano
-description: Webpage of a geek who loves plants, computers, programming, and cryptography.
+description: Webpage of a pseudonymous cryptoanarchist
 image: /assets/sauropods/sauropod.png
 ---
 
-# Hey, I'm Zola Gonano 👋
+# Hey, I'm Zola 👋
 
-A geek who loves plants, computers, programming, and cryptography.
+Just a pseudonymous cryptoanarchist trying to change what i can for better—what more could there possibly be?
 
 {% assign post_count = site.posts | size %}
 {% if post_count > 0 %}
