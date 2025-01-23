@@ -7,7 +7,7 @@ image: /assets/sauropods/sauropod.png
 
 # Hey, I'm Zola 👋
 
-Just a pseudonymous cryptoanarchist trying to change what i can for better—what more could there possibly be?
+Just a pseudonymous cryptoanarchist trying to change what I can for the better—what more could there possibly be?
 
 {% assign post_count = site.posts | size %}
 {% if post_count > 0 %}
