@@ -2,4 +2,4 @@
 
 This blog is based on [poole](https://github.com/poole/poole) theme by @mdo
 
-Live @ [znano.eu.org](https://znano.eu.org)
+Live @ [zola.ink](https://zola.ink)
