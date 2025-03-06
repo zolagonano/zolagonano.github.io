@@ -1,7 +1,7 @@
 # Setup
 title: Zola's Blog
 tagline: Where I share everything that Im interested in
-url: https://zolagonano.github.io
+url: https://zola.ink
 baseurl: ""
 permalink: /blog/posts/:title
 
