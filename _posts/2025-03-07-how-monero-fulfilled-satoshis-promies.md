@@ -57,7 +57,7 @@ Monero used to use **Linkable Spontaneous Anonymous Group (LSAG) Signatures** fo
 
 Each **participant's public key** contributes to a **key image** $I$, which is derived as: I=xH(P)I=xH(P) where $x$ is the private key, and $H(P)$ is a cryptographic hash of the public key.
 
-Then, the signer constructs a ring $(P1, P2, …, Pn)$ such that: $σ=(I,c1,r1,…,rn)σ=(I,c1, r1, …, rn)$
+Then, the signer constructs a ring $(P1, P2, …, Pn)$ such that: $σ=(I,c1,r1,…,rn)$
 
 where $c1$ is a random challenge, and $r_i$ are random values that make the signature verifiable without revealing the real signer.
 
@@ -75,7 +75,7 @@ RingCT is based on **Pedersen Commitments**, which allow a sender to commit to a
 
 A commitment to a value $v$ is:
 
-$C=vG+rHC=vG+rH$
+$C=vG+rH$
 
 where:
 
@@ -96,7 +96,7 @@ Bitcoin addresses are static, meaning you can see all transactions going to a gi
 
 Each Monero wallet has a **public view key $v$ and a public spend key $s$**. When sending a transaction, the sender generates a **one-time public key $P$** as follows:
 
-$P=H(rV)G+SP=H(rV)G+S$
+$P=H(rV)G+S$
 
 where:
 
@@ -107,7 +107,7 @@ where:
 
 The recipient can compute the corresponding **private key** to spend the funds: 
 
-$P′=H(rv)G+sP′=H(rv)G+s$
+$P′=H(rv)G+s$
 
 This ensures that **only the recipient can identify and spend the transaction**, but an outsider cannot link it to a wallet.
 
