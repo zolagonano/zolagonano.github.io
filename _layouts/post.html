@@ -2,6 +2,9 @@
 layout: default
 ---
 
+{% if page.has_math %}
+{% include mathjax.html %}
+{% endif %}
 
 {% if page.author %}
 {% if page.author == site.author.name %}
