@@ -1,6 +1,7 @@
 ---
 title: "Digital Autonomism: Personal Autonomy through Technology"
 layout: post
+Series: Crypto
 ---
 
 Freedom starts from within, once we break through the external controls and take control over our own lives and decisions.
