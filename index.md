@@ -39,6 +39,7 @@ Also, you can follow me on social media:
 
 - [zolagonano](https://github.com/zolagonano) at [github.com](https://github.com/)
 - <a rel="me" href="https://mastodon.online/@znano">znano</a> at [mastodon.online](https://mastodon.online/)
+- [znanoznano](https://x.com/znanoznano) at [twitter.com](https://x.com/)
 
 ## Donate/Support:
 
