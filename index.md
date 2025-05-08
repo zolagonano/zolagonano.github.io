@@ -37,9 +37,9 @@ If you're not a ProtonMail user and want to send me an encrypted email, you can 
 
 Also, you can follow me on social media:
 
-- [zolagonano](https://github.com/zolagonano) at [github.com](https://github.com/)
-- <a rel="me" href="https://mastodon.online/@znano">znano</a> at [mastodon.online](https://mastodon.online/)
-- [znanoznano](https://x.com/znanoznano) at [twitter.com](https://x.com/)
+- [zolagonano](https://github.com/zolagonano) at github.com
+- <a rel="me" href="https://mastodon.online/@znano">znano</a> at mastodon.online
+- [znanoznano](https://x.com/znanoznano) at twitter.com
 
 ## Donate/Support:
 
