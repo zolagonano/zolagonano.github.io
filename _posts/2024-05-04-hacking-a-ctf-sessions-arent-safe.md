@@ -48,7 +48,7 @@ if __name__ == "__main__":
 When I read the index function, I immediately hit Shift + F9 on my Firefox and opened Firefox's storage inspector. There it was: the session with the flag encoded in base64.
 
 ```
-{"flag":{" b":"MjQ3Q1RGe2RhODA3OTVmOGE1Y2FiMmUwMzdkNzM4NTgwN2I5YTkxfQ=="}}6s1_~';t]Q
+{"flag":{" b":"MjQ3Q1RGe2RhODA3OTVmOGE1Y2FiMmUwMzdkNzM4NTgwN2I5YTkxfQ=="}}6s1_~';t]Q
 ```
 
 Then I decoded the flag and got the flag in plain text just like that.
