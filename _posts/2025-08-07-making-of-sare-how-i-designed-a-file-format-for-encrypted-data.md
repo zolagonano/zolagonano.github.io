@@ -8,7 +8,7 @@ layout: post
 
 **Disclaimer**: This might sound like a stupid idea, but believe me, I had good reasons for it.
 
-In the previous post on the making of **SARE**, I went over how and why I integrated master seeds into the architecture. That laid the groundwork for consistent key derivation across different cryptographic operations. If you haven’t read that post, you can find it [here](#) - that’ll help this one make more sense.
+In the previous post on the making of **SARE**, I went over how and why I integrated master seeds into the architecture. That laid the groundwork for consistent key derivation across different cryptographic operations. If you haven’t read that post, you can find it [here](/blog/posts/making-of-sare-master-seeds-in-hybrid-post-quantum-encryption) - that’ll help this one make more sense.
 
 At this point, I had all the core building blocks in place.
 
