@@ -5,6 +5,8 @@ author: Zola Gonano
 series: CTFs
 ---
 
+> This post is written by a human being (me).
+
 I recently started doing CTF challenges. A few days ago, I was working on a challenge from [247CTF.com.](https://247CTF.com) I found a challenge that, in my opinion, shows why using [ECB(Electronic Codebook) mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation) for encrypting with [block ciphers](https://en.wikipedia.org/wiki/Block_cipher) like AES or Twofish isn't a good idea. So, I decided to write a series of blog posts where I solve these challenges and explain how to prevent these kinds of attacks.
 
 The challenge was quite simple. It was a website with two parts: `/encrypt` and `/get_flag`. Both parts needed a hex-encoded message called `user`.

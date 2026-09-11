@@ -4,7 +4,7 @@ layout: post
 series: ZeroNet
 ---
 
-
+> This post is written by a human being (me).
 
 [ZeroNet](https://en.wikipedia.org/wiki/ZeroNet) has always been a project that I'm very passionate about, and I enjoy contributing to it. It is a Peer-to-Peer Web-Like Network that cannot be censored or taken down, thanks to its decentralized nature. When I first started exploring ZeroNet, I struggled to find comprehensive documents or blog posts that provided a clear understanding of the network. Therefore, I decided to write this blog post to make it easier for newcomers to learn more about the network and contribute to it.
 

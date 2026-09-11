@@ -4,6 +4,8 @@ layout: post
 series: ZeroNet
 ---
 
+> This post is written by a human being (me).
+
 In my previous post, I took [a technical look at ZeroNet](/blog/posts/a-very-technical-look-at-zeronet), explaining how it works and the technologies it uses to create a peer-to-peer web-like network. In this post, I want to discuss how you can maintain privacy and security in this network, explore the potential threats, and provide some techniques to enhance your privacy and security.
 
 I will divide this guide into three main sections: "Security," "Privacy," and "Anonymity." In each section, I will explain what you can do to enhance each aspect.

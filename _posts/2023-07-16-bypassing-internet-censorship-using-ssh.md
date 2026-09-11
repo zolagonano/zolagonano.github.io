@@ -5,6 +5,8 @@ author: Zola Gonano
 series: Censorship
 ---
 
+> This post is written by a human being (me).
+
 As censorship systems like GFW(Great Firewall of China) and Roskomnadzor(Russia's Federal Service for Supervision of Communications, Information Technology) have evolved, people have fought back and developed numerous tools, methods, and protocols to bypass these firewalls and connect to the open and free internet that most people know.
 
 Among these protocols, there is an underrated protocol named SSH, which happens to be my favorite. SSH has been developed as a secure remote shell protocol, offering features that lie somewhere between Telnet and FTP. It enables communication with your server, execution of commands, file transfer, acting as a DNS server, and port forwarding.

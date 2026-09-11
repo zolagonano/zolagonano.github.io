@@ -4,6 +4,8 @@ layout: post
 series: ZeroNet
 ---
 
+> This post is written by a human being (me).
+
 I have two Linux machines that I constantly switch between, and I had a problem syncing my [ZeroNet](https://zeronet.dev/)[^1] data between my machines. Additionally, I didn't want to share my data with a third-party server. So, I decided to make a portable USB stick for my ZeroNet that could not only be used with my devices but also with any other device running Linux. This approach also solved another problem I had with ZeroNet, which was its lack of encryption. Now, I could encrypt my USB stick and my ZeroNet data inside it without any complications.
 
 And I thought that sharing the process of doing so would save a lot of time for someone experiencing the same problem. So here's how I set up my portable container:

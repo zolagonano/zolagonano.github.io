@@ -4,6 +4,8 @@ layout: post
 author: Zola Gonano
 ---
 
+> This post is written by a human being (me).
+
 A few months ago, I accidentally came across a highly underrated cryptocurrency named [VerusCoin](https://verus.io/), and I immediately fell in love with it because of its unique features and the techniques that VerusCoin's developers used to provide those features.
 
 And in this post, I wanted to highlight the features and technologies that I believe made VerusCoin unique and practical as a cryptocurrency and blockchain platform.

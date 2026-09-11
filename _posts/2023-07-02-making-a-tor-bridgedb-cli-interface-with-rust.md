@@ -5,6 +5,8 @@ author: Zola Gonano
 series: Censorship
 ---
 
+> This post is written by a human being (me).
+
 If you care about privacy and anonymity, or if you live in a country with very restricted internet access, you might have used [Tor](https://en.wikipedia.org/wiki/Tor_(network)) (The Onion Router) for anonymity or to bypass censorship.
 
 In both cases, you might need to use Bridges to connect to the Tor network or to prevent your ISP from knowing that you're using Tor.

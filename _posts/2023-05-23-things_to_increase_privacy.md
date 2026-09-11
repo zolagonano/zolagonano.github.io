@@ -5,6 +5,8 @@ author: Zola Gonano
 series: Privacy
 ---
 
+> This post is written by a human being (me).
+
 After years of dedication to privacy and anonymity in the online world, I have come across a few simple things that can put you above average in terms of privacy and security.
 
 ## Think before share
