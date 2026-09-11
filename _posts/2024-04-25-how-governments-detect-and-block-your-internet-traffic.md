@@ -4,6 +4,8 @@ layout: post
 series: Censorship
 ---
 
+> This post is written by a human being (me).
+
 If you have ever lived in a country with advanced internet censorship, such as China or Iran, you would know how challenging it is to bypass these restrictions. In this post, I want to discuss the methods by which these firewalls block and detect your traffic, as well as the circumvention tools and methods available for each of them.
 
 An advanced censorship system can employ a combination of these methods based on multiple factors, such as the geolocation of the destination server or its data center, as well as packet fingerprinting and throttling of suspicious traffic, among others.

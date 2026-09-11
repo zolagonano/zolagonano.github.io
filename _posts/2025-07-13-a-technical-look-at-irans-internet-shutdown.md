@@ -5,6 +5,7 @@ author: Zola Gonano
 series: Censorship
 ---
 
+> This post is written by a human being (me).
 
 Every time mass protests erupt in Iran, a familiar pattern follows: the flow of information stops. The internet slows to a crawl or disappears entirely.
 

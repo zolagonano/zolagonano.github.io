@@ -4,6 +4,7 @@ layout: post
 series: BitMessage
 ---
 
+> This post is written by a human being (me).
 
 There are a lot of cool projects that unfortunately have been abandoned or unmaintained for years, but that doesn't mean they added no value. Studying what they've done, taking their unique ways of doing certain things and their problems can lead us to build something better. Bitmessage is one of those projects; it is an email-like service but fully peer-to-peer and decentralized, built upon the same principles. It used innovations of other projects like Bitcoin to build a new thing.
 

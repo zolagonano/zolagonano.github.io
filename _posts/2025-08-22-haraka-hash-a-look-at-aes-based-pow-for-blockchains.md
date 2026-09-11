@@ -4,6 +4,8 @@ author: Zola Gonano
 layout: post
 ---
 
+> This post is written by a human being (me).
+
 Haraka Hash is really interesting to me, it's not a typical checksum hash function like SHA, or Blake, nor it is a KDF like Argon2 or scrypt. Instead, Haraka is designed as an **AES-based permutation**, optimized for short inputs and extremely high throughput on modern CPUs with AES-NI instructions. 
 
 But why? Why would anyone use this? Well, for crypto…

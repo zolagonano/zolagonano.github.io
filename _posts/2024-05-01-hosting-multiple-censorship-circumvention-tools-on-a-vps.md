@@ -4,6 +4,8 @@ layout: post
 series: Censorship
 ---
 
+> This post is written by a human being (me).
+
 This is a guide for those who live under heavy internet censorship and restrictions and want to host their own censorship circumvention tools and services to bypass the firewalls and access the free internet. To understand how these censorship systems and firewalls work, you can check out my previous post by [clicking here.](./how-governments-detect-and-block-your-internet-traffic)
 
 To host your own VPN and Proxy services, you will need a VPS with  unrestricted internet access (and in some extreme cases a VPS inside  your country to communicate with that VPS with unrestricted access,  which I'll explain why and how later in this post).

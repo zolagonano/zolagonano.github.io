@@ -5,6 +5,7 @@ series: Making of SARE
 layout: post
 ---
 
+> This post is written by a human being (me).
 
 **Disclaimer**: This might sound like a stupid idea, but believe me, I had good reasons for it.
 

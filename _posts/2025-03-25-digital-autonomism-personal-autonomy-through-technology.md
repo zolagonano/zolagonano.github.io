@@ -4,6 +4,8 @@ layout: post
 Series: Crypto
 ---
 
+> This post is written by a human being (me).
+
 Freedom starts from within, once we break through the external controls and take control over our own lives and decisions.
 
 Although avoiding external controls might not sound feasible at the moment, just like avoiding cholera was not feasible a hundred years ago, the history of humanity is full of impossibilities that now just seem stupid to us.

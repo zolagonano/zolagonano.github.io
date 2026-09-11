@@ -4,6 +4,7 @@ author: Zola Gonano
 layout: post
 ---
 
+> This post is written by a human being (me).
 
 There’s been a lot of talk lately about **Qubic**, a mining pool that might be trying to pull off a **51% attack** on **Monero**. If you're not familiar, a 51% attack happens when one miner or mining pool gets control of more than half of the total network hashrate in a proof-of-work system, like Monero. That kind of control gives them a lot of power over the network.
 

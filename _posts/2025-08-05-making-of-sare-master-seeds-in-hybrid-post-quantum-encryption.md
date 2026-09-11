@@ -5,6 +5,8 @@ layout: post
 series: Making of SARE
 ---
 
+> This post is written by a human being (me).
+
 A few years ago, I started working on a project called the Sare Project. Sare stands for Safe At Rest Encryption. I wanted to make a hybrid post-quantum encryption library and tool to be a post-quantum replacement for GPG.
 
 I have been away from this project for almost a year, and when I opened the codebase I didn’t know what I had done. So I thought as I read my own old code, I could explain why I did certain things and what ideas led me down those paths.

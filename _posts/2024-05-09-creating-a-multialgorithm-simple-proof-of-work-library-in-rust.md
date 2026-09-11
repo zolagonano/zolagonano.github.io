@@ -4,7 +4,7 @@ layout: post
 author: Zola Gonano
 ---
 
-
+> This post is written by a human being (me).
 
 I had an idea for a project that required Proof of Work as a part of it, but I couldn't find any Rust libraries that would have Argon2id or Scrypt algorithms and were meant to provide proof of work functionality without being tied to a specific blockchain. So, I decided to develop my own. When I was doing so, I wanted to show how Rust's data types can make such things easy and clean.
 

@@ -4,6 +4,7 @@ layout: post
 series: Privacy
 ---
 
+> This post is written by a human being (me).
 
 Telegram is really close to the worst when it comes to privacy, security, and anonymity, which highly matters if you are an activist, a protester, a journalist, or even a normal paranoid human being.
 

@@ -4,6 +4,8 @@ author: Zola Gonano
 layout: post
 ---
 
+> This post is written by a human being (me).
+
 Personally I am not a fan of RocksDB because of it being such a headache to get basic things working like replication, clustering, high availability. But I recently used continuwuity to host a matrix homeserver hosting thousands of users (it never meant to grow that much) and the whole time I had this fear of losing everyone's data because I had no replication or backups of the database and no reliable way of doing so.
 
 What couldn't have been done?

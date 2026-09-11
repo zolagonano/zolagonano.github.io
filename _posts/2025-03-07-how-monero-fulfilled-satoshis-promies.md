@@ -5,6 +5,8 @@ series: Crypto
 has_math: true
 ---
 
+> This post is written by a human being (me).
+
 Since Trump's election and even before that, news kept coming out about how crypto was going to change the world, how the US was going to become the crypto capital of the world, and how they wanted to build strategic reserves of Bitcoin, Ethereum, Solana, Ripple, and others. At the same time, however, they de-listed Monero from major exchanges like Binance and even criminalized this cryptocurrency.
 
 But if we take a closer look at Monero, we can see that it was the true crypto—it was what Satoshi wanted to build.

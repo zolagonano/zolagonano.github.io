@@ -5,6 +5,8 @@ author: Zola Gonano
 series: CTFs
 ---
 
+> This post is written by a human being (me).
+
 I was playing a CTF at [247CTF.com](https://247ctf.com), called "Secure Session" with the description, "If you can guess our random secret key, we will tell you the flag securely stored in your session." It was surprisingly easy to capture the flag; it took less than a minute. And that's because sessions aren't secure storage for sensitive data.
 
 The code was a simple [Flask](https://palletsprojects.com/p/flask/) app:
